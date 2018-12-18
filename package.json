@@ -9,7 +9,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/devangnpatil/vuejs-poster-shop"
   },
   "engines": {
     "node": ">=6.4"
